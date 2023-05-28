@@ -23,9 +23,13 @@ This price can be a consideration for you and your family to determine the price
 **Chose the Random Forest for best model**
 
 ## Model Evaluation
+
 ![image](https://github.com/AfifAlvan/House_Price_Prediction/assets/114891065/96e86f00-9a73-4eb7-8935-9600bc9c4e6a)
 
+
+
 ## Result
+
 ![image](https://github.com/AfifAlvan/House_Price_Prediction/assets/114891065/42ca212d-018d-4845-8370-c80b9b98b2a6)
 
 
@@ -33,6 +37,8 @@ This price can be a consideration for you and your family to determine the price
 ### For more Information:
 
 Dataset: https://www.kaggle.com/datasets/shubhammeshram579/house
+
 Linkedin: https://www.linkedin.com/in/afif-alvan/
+
 Hugging Face: https://huggingface.co/AfifAlvan
  
